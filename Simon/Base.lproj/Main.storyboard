@@ -95,6 +95,7 @@
                         <outletCollection property="colorDisplays" destination="nzA-Md-d4a" collectionClass="NSMutableArray" id="BSH-wX-b5V"/>
                         <outletCollection property="colorDisplays" destination="jGi-mJ-ijK" collectionClass="NSMutableArray" id="IqP-Xc-Hgm"/>
                         <outletCollection property="colorDisplays" destination="Hg1-cT-AZ6" collectionClass="NSMutableArray" id="VMf-AL-vzt"/>
+                        <outletCollection property="colorDisplays" destination="x2K-ob-fFa" collectionClass="NSMutableArray" id="Uzz-CH-FFD"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
