@@ -47,7 +47,7 @@ class ViewController: UIViewController
     
     @objc func nextColor()
     {
-        
+        Int(arc4random_uniform(4))
     }
     
     @IBAction func onStartButtonPressed(_ sender: Any)
